@@ -1,7 +1,7 @@
 CRUD---MERN
 
--Front - > React
+---Front - > React
 
--Back -> Node.js, express 
+---Back -> Node.js, express 
 
 Features - CRUD
